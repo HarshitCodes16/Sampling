@@ -144,6 +144,7 @@ Visual comparison of sampling techniques
 
 
 ### 📁 Repository Structure
+```
 Sampling/
 │
 ├── Creditcard_data.csv
@@ -155,6 +156,7 @@ Sampling/
 ├── M4_KNN.png
 ├── M5_NaiveBayes.png
 ├── overall_sampling_performance.png
+```
 
 ### 👨‍🎓 Author
 

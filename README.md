@@ -132,7 +132,7 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib
 
 ```
 ### 2️ Run the Python Script
-python stats_sampling.py
+python stats_sampling(1).py
 
 ### 3️⃣ Outputs Generated
 
@@ -148,7 +148,7 @@ Visual comparison of sampling techniques
 Sampling/
 │
 ├── Creditcard_data.csv
-├── stats_sampling.py
+├── stats_sampling(1).py
 ├── README.md
 ├── M1_LogisticRegression.png
 ├── M2_DecisionTree.png
